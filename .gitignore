@@ -1,5 +1,7 @@
 raw_data/
 data/
+models/
+
 
 .DS_Store
 .python-version
